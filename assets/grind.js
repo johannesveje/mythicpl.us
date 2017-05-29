@@ -155,10 +155,10 @@ var artifactKnowledge = {
 	50: 552000,
 };
 var apRewards = {
-	T1: 500,
-	T2: 800,
-	T3: 1000, 
-	T4: 1200,
+	T1: 300,
+	T2: 475,
+	T3: 540, 
+	T4: 775,
 }
 var ARTIFACT_LEVEL_35 = 35;
 var ARTIFACT_LEVEL_52 = 52;
